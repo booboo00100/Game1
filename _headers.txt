@@ -1,0 +1,19 @@
+/Web/*.wasm
+  Content-Type: application/wasm
+  Content-Encoding: br
+
+/Web/*.js
+  Content-Type: application/javascript
+  Content-Encoding: br
+
+/Web/*.data
+  Content-Type: application/octet-stream
+  Content-Encoding: br
+
+/Web/*.framework.js
+  Content-Type: application/javascript
+  Content-Encoding: br
+
+/Web/*.symbols.json
+  Content-Type: application/json
+  Content-Encoding: br
